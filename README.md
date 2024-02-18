@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:78%;position:relative;"><iframe src="https://giphy.com/embed/PtmSJsGCb5pzOe0eId" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/christmas-xmas-hohoho-PtmSJsGCb5pzOe0eId">via GIPHY</a></p>
+![Black_SANTA](https://github.com/ICANDIGITAL/ICANDIGITAL/assets/32528337/e9d6bcd8-94a5-4f3d-abed-ad944d0bebdc)
 # 💫 About Me:
 Hello, my name is Chris. I'm a Computer Science major at Oregon State University. With a focus on simulation and gaming. Also, I'm currently working on iOS projects as a part of my CodePath studies. I'm located in Reston, Virginia, U.S.A.
 
