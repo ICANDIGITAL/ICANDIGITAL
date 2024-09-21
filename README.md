@@ -18,7 +18,6 @@ Hello, my name is Chris. I'm a Mechanical Engineering Major and Computer Science
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=icandigital&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1250315126&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1250315126&redirect=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=icandigital&icon=0&color=12)](https://visitcount.itsvg.in)
 
