@@ -1,6 +1,5 @@
-![Black_SANTA](https://github.com/ICANDIGITAL/ICANDIGITAL/assets/32528337/e9d6bcd8-94a5-4f3d-abed-ad944d0bebdc)
 # 💫 About Me:
-Hello, my name is Chris. I'm a Computer Science major at Oregon State University. With a focus on simulation and gaming. Also, I'm currently working on iOS projects as a part of my CodePath studies. I'm located in Reston, Virginia, U.S.A.
+Hello, my name is Chris. I'm a Mechanical Engineering Major and Computer Science Minor at Oregon State University with a focus on Computational Engineering. I'm located in Reston, Virginia, U.S.A. "Rewrite Everything In Rust!" is my favorite slogan.
 
 
 ## 🌐 Socials:
